@@ -1,2 +1,5 @@
-# Scommunity-pro
-Pro and V4.0.0 of s-community as scommunity pro.
+# prityash-appico-downloader
+
+New Prityash Appico Downloader for installing apps .
+All apps of prityash appico will be now in this platform
+only not elsewhere . INSTALL NOW :--
