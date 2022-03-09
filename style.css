@@ -33,4 +33,8 @@ margin-left: 50px;
     font-weight: bolder;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.notice{
+    background-color: rgb(156, 123, 15);
+    height: 80px;
+}
  
